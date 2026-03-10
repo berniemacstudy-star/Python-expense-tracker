@@ -16,5 +16,16 @@ Python
 JSON
 File Handling
 
+## Example Output
+
+=== Personal Expense Tracker ===
+
+Expense breakdown
+rent: 66.7%
+food: 33.3%
+
+Total: R6000
+Savings: R4000
+
 ## Author
 Bernadus
