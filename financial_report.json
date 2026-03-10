@@ -1,0 +1,17 @@
+{
+    "timestamp": "2026 -03-06 07:43:01",
+    "user": {
+        "currency": "ZAR"
+    },
+    "financialSummary": {
+        "totalExpenses": 6000.0,
+        "numberOfItems": 2
+    },
+    "expenses": {
+        "rent": 4000.0,
+        "food": 2000.0
+    },
+    "advice": "Your spending is properly distributed. Good discipline!",
+    "incomeTotal": 10000.0,
+    "savings": 4000.0
+}
