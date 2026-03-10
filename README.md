@@ -21,6 +21,7 @@ File Handling
 === Personal Expense Tracker ===
 
 Expense breakdown
+
 rent: 66.7%
 food: 33.3%
 
